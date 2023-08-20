@@ -1,4 +1,4 @@
-# matplot-challege
+# matplot-challenge 
 mod 5 challenge
 
 # Background
